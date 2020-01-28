@@ -24,5 +24,10 @@ namespace MonolithProject1
 		{
 			return side1;
 		}
+
+		public string Useless()
+		{
+			return "this is useless";
+		}
 	}
 }
